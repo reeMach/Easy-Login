@@ -5,7 +5,7 @@ Import-Module Selenium
 $chromeDriverPath = "C:\Path\To\chromedriver"
 
 # Specify the URL of the website you want to visit
-$websiteUrl = "https:/website.com"
+$websiteUrl = "https://website.com"
 
 # Specify the login credentials
 $username = "testcredentials"
